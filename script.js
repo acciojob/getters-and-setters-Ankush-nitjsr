@@ -25,7 +25,7 @@ class Teacher extends Person {
 }
 
 const student = new Student("MysteryNisha", 28);
-const Teacher = new Teacher("Shivani", 32);
+const teacher = new Teacher("Shivani", 32);
 
 student.study();
 teacher.teach();
